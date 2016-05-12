@@ -1,2 +1,0 @@
-# Chao Mundo
-Ultimo repository
